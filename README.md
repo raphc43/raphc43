@@ -12,7 +12,7 @@ I focus on **backend architectures that scale**, **data automation**, and **AI/L
 ## About My Work
 
 Most of my professional work is completed through **client engagements on Upwork**, and **many of these projects are protected by NDA**.  
-That’s why this GitHub doesn’t reflect my full project history — but you’ll find **sample projects, open-source snippets, and backend prototypes** that represent the same level of quality and engineering rigor.  
+Hence, GitHub does not reflect my full project history — but you’ll find **sample projects, open-source snippets, and backend prototypes** that represent the same level of quality and engineering rigor.  
 
 👉 You can view verified results and client history here:  
 🔗 [**My Upwork Profile**](https://www.upwork.com/fl/raphaelqureshi?mp_source=share)
