@@ -1,3 +1,80 @@
+
+# Hi, I'm Raphael — Senior Python & AWS Developer  
+
+**Python | FastAPI | Serverless | AWS | Automation | DevOps**
+
+I’m a **Senior Python & AWS Developer** with 5+ years of experience delivering scalable backend systems, automation pipelines, and serverless solutions using **Python**, **FastAPI**, and **AWS (Lambda, ECS, EC2, S3, RDS)**.  
+
+I focus on **backend architectures that scale**, **data automation**, and **AI/LLM integration** (ChatGPT, Claude, OpenAI APIs) to streamline operations and improve performance.  
+
+---
+
+## About My Work
+
+Most of my professional work is completed through **client engagements on Upwork**, and **many of these projects are protected by NDA**.  
+That’s why this GitHub doesn’t reflect my full project history — but you’ll find **sample projects, open-source snippets, and backend prototypes** that represent the same level of quality and engineering rigor.  
+
+👉 You can view verified results and client history here:  
+🔗 [**My Upwork Profile**](https://www.upwork.com/fl/raphaelqureshi?mp_source=share)
+
+---
+
+## Core Expertise
+
+### Backend & Cloud Systems
+- **Python Backends** — async microservices, FastAPI, serverless architectures  
+- **REST & GraphQL APIs** — scalable, low-latency design  
+- **AWS Stack** — Lambda, EC2, ECS/Fargate, S3, RDS, DynamoDB  
+- **GCP Stack** — Cloud Functions, Storage, BigQuery, Pub/Sub  
+- **Datastores** — PostgreSQL, MySQL, MongoDB, Redis  
+
+### DevOps, Security & Monitoring
+- **CI/CD & Automation** — Docker, GitHub Actions, CloudFormation  
+- **Security & Reliability** — OAuth2, JWT, Cloudflare, OWASP hardening  
+- **Monitoring** — AWS CloudWatch, logging, uptime metrics  
+
+### Data, AI & Automation
+- **ETL Pipelines** — Prefect, Airflow, Pandas-based data flows  
+- **Web Automation** — Scrapy, Selenium, Async Crawlers  
+- **AI & LLM Workflows** — OpenAI, Claude, LangChain, NLP-driven tools  
+
+---
+
+## Highlights
+- Scaled backends serving **50K+ users** with **99.9% uptime**  
+- Improved API latency by **30–50%**  
+- Reduced cloud costs **25–30%** via optimized Lambda + container setups  
+- Automated ETL workflows → **70% less manual effort**  
+- Integrated AI pipelines → **3× faster data processing**  
+
+---
+
+## 🌍 Availability
+- **Remote (GMT+5)** — overlap with **EST / GMT / JST**  
+- **Fast response time** — usually within a few hours  
+
+---
+
+## Tech Stack
+**Languages:** Python, SQL, Bash, JavaScript  
+**Frameworks:** FastAPI, Flask, Django, Pytest  
+**Cloud:** AWS (Lambda, ECS, EC2, S3, RDS, CloudFormation), GCP  
+**DevOps:** Docker, CI/CD, GitHub Actions, CloudWatch  
+**Data:** PostgreSQL, MongoDB, DynamoDB, Airflow, Prefect  
+**AI/LLM Tools:** OpenAI API, Claude, LangChain  
+
+---
+
+## Let’s Connect
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **Upwork:** [Upwork Profile](https://www.upwork.com/fl/raphaelqureshi?mp_source=share)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/raphael-qureshi-b18939210)  
+
+---
+
+## Skills
+`Python` • `Amazon Web Services` • `AWS Lambda` • `Serverless Computing` • `FastAPI` • `Automation` • `DevOps` • `CI/CD` • `Back-End Development` • `Docker` • `PostgreSQL` • `ETL` • `REST API` • `Amazon EC2` • `Amazon S3`
+
 ------
 
 <!---
