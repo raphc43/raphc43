@@ -1,5 +1,5 @@
 
-# Hi, I'm Raphael —  Senior Python | AWS Developer
+# Hi, I'm Raphael —  Senior Python & AWS Developer
 
 **Python | FastAPI | Serverless | AWS | Automation | DevOps**
 
