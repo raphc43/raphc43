@@ -13,8 +13,7 @@ Clear communication, timely updates, and prompt responses.
 
 ## About My Work
 
-Most of my professional work is completed through **client engagements on Upwork**, and **many of these projects are protected by NDA**.  
-Hence, GitHub does not reflect my full project history — but you’ll find **sample projects, open-source snippets, and backend prototypes** that represent the same level of quality and engineering rigor.  
+Most of my professional work is completed through **client engagements on Upwork**, and **many of these projects are protected by NDA**. Hence, GitHub does not reflect my full project history — but you’ll find **sample projects, open-source snippets, and backend prototypes** that represent the same level of quality and engineering rigor.  
 
 👉 You can view verified results and client history here:  
 🔗 [**My Upwork Profile**](https://www.upwork.com/fl/raphaelqureshi?mp_source=share)
