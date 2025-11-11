@@ -3,11 +3,12 @@
 
 **Python | FastAPI | Serverless | AWS | Automation | DevOps**
 
-Senior Python Developer with 5+ years delivering backend solutions, automation workflows, data extraction pipelines and serverless architectures using Python, FastAPI, and AWS (Lambda, EC2, ECS/Fargate, S3, RDS). I integrate AI & LLM tools (ChatGPT, Claude) to accelerate data processing, streamline operations, and reduce costs.
+5+ years delivering backend solutions, automation workflows, data extraction pipelines and serverless architectures using Python, FastAPI, and AWS (Lambda, EC2, ECS/Fargate, S3, RDS). I integrate AI & LLM tools (ChatGPT, Claude) to accelerate data processing, streamline operations, and reduce costs.
 
 AWS Developer with DevOps expertise (CloudFormation, IAM, VPC, CI/CD pipelines), ensuring scalable, reliable, and high-performance cloud solutions.
 
 Clear communication, timely updates, and prompt responses.
+
 ---
 
 ## About My Work
