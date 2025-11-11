@@ -66,9 +66,8 @@ That’s why this GitHub doesn’t reflect my full project history — but you�
 ---
 
 ## Let’s Connect
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 - **Upwork:** [Upwork Profile](https://www.upwork.com/fl/raphaelqureshi?mp_source=share)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/raphael-qureshi-b18939210)  
+- **LinkedIn:** [linkedin](linkedin.com/in/raphael-qureshi-b18939210)  
 
 ---
 
