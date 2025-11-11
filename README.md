@@ -31,13 +31,13 @@ Most of my professional work is completed through **client engagements on Upwork
 
 ### DevOps, Security & Monitoring
 - **CI/CD & Automation** — Docker, GitHub Actions, CloudFormation  
-- **Security & Reliability** — OAuth2, JWT, Cloudflare, OWASP hardening  
+- **Security & Reliability** — OAuth2, JWT, Cloudflare, OWASP  
 - **Monitoring** — AWS CloudWatch, logging, uptime metrics  
 
 ### Data, AI & Automation
-- **ETL Pipelines** — Prefect, Airflow, Pandas-based data flows  
+- **ETL Pipelines** — Pandas-based data flows  
 - **Web Automation** — Scrapy, Selenium, Async Crawlers  
-- **AI & LLM Workflows** — OpenAI, Claude, LangChain, NLP-driven tools  
+- **AI & LLM Workflows** — OpenAI, Claude
 
 ---
 
@@ -61,7 +61,7 @@ Most of my professional work is completed through **client engagements on Upwork
 **Frameworks:** FastAPI, Flask, Django, Pytest  
 **Cloud:** AWS (Lambda, ECS, EC2, S3, RDS, CloudFormation), GCP  
 **DevOps:** Docker, CI/CD, GitHub Actions, CloudWatch  
-**Data:** PostgreSQL, MongoDB, DynamoDB, Airflow, Prefect  
+**Data:** PostgreSQL, MongoDB, DynamoDB, Pandas  
 **AI/LLM Tools:** OpenAI API, Claude, LangChain  
 
 ---
