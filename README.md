@@ -62,7 +62,7 @@ Most of my professional work is completed through **client engagements on Upwork
 **Cloud:** AWS (Lambda, ECS, EC2, S3, RDS, CloudFormation), GCP  
 **DevOps:** Docker, CI/CD, GitHub Actions, CloudWatch  
 **Data:** PostgreSQL, MongoDB, DynamoDB, Pandas  
-**AI/LLM Tools:** OpenAI API, Claude, LangChain  
+**AI/LLM Tools:** OpenAI API, Claude  
 
 ---
 
