@@ -30,7 +30,7 @@ Most of my professional work is completed through **client engagements on Upwork
 - **Datastores** — PostgreSQL, MySQL, MongoDB, Redis  
 
 ### DevOps, Security & Monitoring
-- **CI/CD & Automation** — Docker, GitHub Actions, CloudFormation  
+- **CI/CD & DevOps** — Docker, GitHub Actions, CloudFormation  
 - **Security & Reliability** — OAuth2, JWT, Cloudflare, OWASP  
 - **Monitoring** — AWS CloudWatch, logging, uptime metrics  
 
