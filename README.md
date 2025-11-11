@@ -51,7 +51,8 @@ Most of my professional work is completed through **client engagements on Upwork
 ---
 
 ## 🌍 Availability
-- **Remote (GMT+5)** — overlap with **EST / GMT / JST**  
+- **Remote (GMT+5)** — overlap with **EST / GMT / JST** 
+- **Flexible working hours** — to match client/team time zones
 - **Fast response time** — usually within a few hours  
 
 ---
