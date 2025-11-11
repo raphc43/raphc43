@@ -3,7 +3,7 @@
 
 **Python | FastAPI | Serverless | AWS | Automation | DevOps**
 
-**Senior Python & AWS Developer** with 5+ years of experience delivering scalable backend systems, automation pipelines, and serverless solutions using **Python**, **FastAPI**, and **AWS (Lambda, ECS, EC2, S3, RDS)**.  
+5+ years of experience delivering scalable backend systems, automation pipelines, and serverless solutions using **Python**, **FastAPI**, and **AWS (Lambda, ECS, EC2, S3, RDS)**.  
 
 I focus on **backend architectures that scale**, **data automation**, and **AI/LLM integration** (ChatGPT, Claude, OpenAI APIs) to streamline operations and improve performance.  
 
