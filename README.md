@@ -45,7 +45,7 @@ Most commercial work has been delivered through long-term client engagements and
 ---
 
 ### Featured Projects
-####⚡ Real-Time Execution Engine
+**⚡ Real-Time Execution Engine**
 
 Low-latency, high-concurrency Python execution engine integrating reverse-engineered APIs for production transaction processing.
 
